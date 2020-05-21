@@ -6,7 +6,7 @@ In this repository incluedes the updated Heriseon website code. Improvements hav
 
 - added in descriptive website title
 - added in alt names for images
-- replaced repetitive <divs> with sermantic HTML elements
+- replaced repetitive divs with sermantic HTML elements
 - reorganized HTML and CSS files to increase logical structure and avoid repetition
 - fixed non-working link
 
